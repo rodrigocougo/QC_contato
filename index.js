@@ -17,7 +17,7 @@ let allowCrossDomain = function(req, res, next) {
 app.use(allowCrossDomain);
 
 app.get('/', (req, res) => {
-    res.send('Hello World!');
+    res.send('Hello World! X');
 })
 
 app.post('/api/contact', (req, res) => {
