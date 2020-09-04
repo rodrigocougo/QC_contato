@@ -19,7 +19,7 @@
     "mdbootstrap": "^4.8.9",
     "mdbreact": "^4.18.1",
     "moment": "^2.23.0",
-    "node-sass": "4.12.0",
+    "node-sass": "4.13.1",
     "react": "^16.9.0",
     "react-bootstrap": "^0.32.4",
     "react-bulma-components": "^2.3.0",
